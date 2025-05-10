@@ -5,7 +5,7 @@ Data Source: USGS EARTH EXPLORER
 
 Software used: ArcGIS
 <p align="center">
-  <img src="images/sample_image.png" alt="Elevation map of Darjeeling" width="300">
+  <img src="elevation map.png" alt="Elevation map of Darjeeling" width="600">
 </p>
 
 
